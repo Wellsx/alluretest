@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Fri Mar 03 13:34:39 CET 2023","Fri Mar 03 13:34:39 CET 2023","857","","passing test","","","","passes",""
-"failed","Fri Mar 03 13:34:04 CET 2023","Fri Mar 03 13:34:26 CET 2023","22071","","failing spec","","","","fails",""
+"passed","Fri Mar 03 13:44:52 CET 2023","Fri Mar 03 13:44:53 CET 2023","767","","passing test","","","","passes",""
+"failed","Fri Mar 03 13:44:23 CET 2023","Fri Mar 03 13:44:44 CET 2023","21228","","failing spec","","","","fails",""
